@@ -1,1 +1,1 @@
-# maguffies
+# maguffies - This repo is intended to be the foundation of the maguffies brand. Everything this company stands for is held within.
